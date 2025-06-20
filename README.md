@@ -48,6 +48,7 @@ Stop when centroids remain the same
 
 
 
-![image](https://github.com/user-attachments/assets/966cc4c3-743a-4c8c-9074-81a77a73b15e)
+<img src="https://github.com/user-attachments/assets/966cc4c3-743a-4c8c-9074-81a77a73b15e" width="700" />
+
 ![image](https://github.com/user-attachments/assets/8c8bd152-1662-4159-abef-51f3e2949af0)
 
